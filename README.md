@@ -72,7 +72,8 @@
 </html>
 ```
 
-*Media*
+# media
+
 ```
   ${media.medium(css`
     .large {
@@ -104,3 +105,5 @@
     }
   `)}
 ```
+
+![Image alt](https://i.imgur.com/k6E745l.png)
